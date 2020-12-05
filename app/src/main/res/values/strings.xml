@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mainMenu</string>
+
+    <string-array name="options">
+        <item>All records</item>
+        <item>Records from 3 days ago</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ListFont" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">#F3EAEA</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
